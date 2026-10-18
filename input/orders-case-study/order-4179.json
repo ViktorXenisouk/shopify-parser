@@ -1,0 +1,30 @@
+{
+  "order_number": 4179,
+  "created_at": "2026-06-03T08:44:39+02:00",
+  "currency": "HUF",
+  "financial_status": "paid",
+  "shipping_lines": [
+    {
+      "code": "Packeta - Csomagpontok",
+      "title": "Packeta - Csomagpontok"
+    }
+  ],
+  "note_attributes": [
+    {
+      "name": "PickupPointId",
+      "value": "10642"
+    },
+    {
+      "name": "PickupPointName",
+      "value": "Budapest 1118, Csiki-hegyek utca 2."
+    },
+    {
+      "name": "PickupPointType",
+      "value": "internal"
+    },
+    {
+      "name": "PickupPointProvider",
+      "value": "Zasilkovna"
+    }
+  ]
+}

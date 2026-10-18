@@ -1,0 +1,38 @@
+{
+  "order_number": 4185,
+  "created_at": "2026-06-03T14:45:24+02:00",
+  "currency": "HUF",
+  "financial_status": "paid",
+  "shipping_lines": [
+    {
+      "code": "GLS - Futár kézbesítés",
+      "title": "GLS - Futár kézbesítés"
+    }
+  ],
+  "note_attributes": [
+    {
+      "name": "PickupPointId",
+      "value": ""
+    },
+    {
+      "name": "PickupPointName",
+      "value": ""
+    },
+    {
+      "name": "PickupPointType",
+      "value": ""
+    },
+    {
+      "name": "PickupPointProvider",
+      "value": ""
+    },
+    {
+      "name": "CarrierId",
+      "value": ""
+    },
+    {
+      "name": "CarrierPickupPointId",
+      "value": ""
+    }
+  ]
+}

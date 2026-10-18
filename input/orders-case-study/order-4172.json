@@ -1,0 +1,30 @@
+{
+  "order_number": 4172,
+  "created_at": "2026-06-02T22:54:26+02:00",
+  "currency": "HUF",
+  "financial_status": "pending",
+  "shipping_lines": [
+    {
+      "code": "Packeta - Csomagpontok",
+      "title": "Packeta - Csomagpontok"
+    }
+  ],
+  "note_attributes": [
+    {
+      "name": "PickupPointId",
+      "value": "7764"
+    },
+    {
+      "name": "PickupPointName",
+      "value": "Debrecen, Veres Péter u. 31"
+    },
+    {
+      "name": "PickupPointType",
+      "value": "internal"
+    },
+    {
+      "name": "PickupPointProvider",
+      "value": "Zasilkovna"
+    }
+  ]
+}

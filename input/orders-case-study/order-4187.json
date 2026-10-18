@@ -1,0 +1,30 @@
+{
+  "order_number": 4187,
+  "created_at": "2026-06-03T15:33:32+02:00",
+  "currency": "HUF",
+  "financial_status": "paid",
+  "shipping_lines": [
+    {
+      "code": "Packeta - Csomagpontok",
+      "title": "Packeta - Csomagpontok"
+    }
+  ],
+  "note_attributes": [
+    {
+      "name": "PickupPointId",
+      "value": "31154"
+    },
+    {
+      "name": "PickupPointName",
+      "value": "Szolnok, Ostor utca 4."
+    },
+    {
+      "name": "PickupPointType",
+      "value": "internal"
+    },
+    {
+      "name": "PickupPointProvider",
+      "value": "Zasilkovna"
+    }
+  ]
+}
