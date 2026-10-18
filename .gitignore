@@ -1,4 +1,3 @@
 node_modules/
 dist/
-input/orders-case-study/
-output/summary.json
+/output/**

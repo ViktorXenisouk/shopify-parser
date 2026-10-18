@@ -1,0 +1,38 @@
+{
+  "order_number": 240415,
+  "created_at": "2026-03-30T11:37:30+02:00",
+  "currency": "CZK",
+  "financial_status": "pending",
+  "shipping_lines": [
+    {
+      "code": "Zásilkovna - výdejní místo/Z-BOX",
+      "title": "Zásilkovna - výdejní místo/Z-BOX"
+    }
+  ],
+  "note_attributes": [
+    {
+      "name": "PickupPointId",
+      "value": "26031"
+    },
+    {
+      "name": "PickupPointName",
+      "value": "Z-BOX Náchod, Jugoslávská 260"
+    },
+    {
+      "name": "PickupPointType",
+      "value": "internal"
+    },
+    {
+      "name": "PickupPointProvider",
+      "value": "Zasilkovna"
+    },
+    {
+      "name": "CarrierId",
+      "value": ""
+    },
+    {
+      "name": "CarrierPickupPointId",
+      "value": ""
+    }
+  ]
+}

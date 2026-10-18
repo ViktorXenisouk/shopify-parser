@@ -1,0 +1,13 @@
+{
+  "order_number": 4171,
+  "created_at": "2026-06-02T22:53:16+02:00",
+  "currency": "HUF",
+  "financial_status": "pending",
+  "shipping_lines": [
+    {
+      "code": "Futár kézbesítés B2B",
+      "title": "Futár kézbesítés B2B"
+    }
+  ],
+  "note_attributes": []
+}

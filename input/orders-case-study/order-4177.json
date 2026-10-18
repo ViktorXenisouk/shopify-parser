@@ -1,0 +1,30 @@
+{
+  "order_number": 4177,
+  "created_at": "2026-06-03T07:38:27+02:00",
+  "currency": "HUF",
+  "financial_status": "paid",
+  "shipping_lines": [
+    {
+      "code": "Packeta - Csomagpontok",
+      "title": "Packeta - Csomagpontok"
+    }
+  ],
+  "note_attributes": [
+    {
+      "name": "PickupPointId",
+      "value": "33795"
+    },
+    {
+      "name": "PickupPointName",
+      "value": "Budapest, 1204, Pázsitos sétány 1-3"
+    },
+    {
+      "name": "PickupPointType",
+      "value": "internal"
+    },
+    {
+      "name": "PickupPointProvider",
+      "value": "Zasilkovna"
+    }
+  ]
+}

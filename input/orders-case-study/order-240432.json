@@ -1,0 +1,38 @@
+{
+  "order_number": 240432,
+  "created_at": "2026-03-30T11:58:23+02:00",
+  "currency": "CZK",
+  "financial_status": "paid",
+  "shipping_lines": [
+    {
+      "code": "Zásilkovna - výdejní místo/Z-BOX",
+      "title": "Zásilkovna - výdejní místo/Z-BOX"
+    }
+  ],
+  "note_attributes": [
+    {
+      "name": "PickupPointId",
+      "value": "28795"
+    },
+    {
+      "name": "PickupPointName",
+      "value": "Z-BOX Plzeň, Lidická 854/35"
+    },
+    {
+      "name": "PickupPointType",
+      "value": "internal"
+    },
+    {
+      "name": "PickupPointProvider",
+      "value": "Zasilkovna"
+    },
+    {
+      "name": "CarrierId",
+      "value": ""
+    },
+    {
+      "name": "CarrierPickupPointId",
+      "value": ""
+    }
+  ]
+}
